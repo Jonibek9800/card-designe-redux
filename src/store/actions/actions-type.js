@@ -1,0 +1,4 @@
+export const GETIMAGES = "GETIMAGES";
+export const SETIMAGEURL = "SETIMAGEURL";
+export const SETCOLOR = "SETCOLOR";
+export const SETPERSONNAME = "SETPERSONNAME";

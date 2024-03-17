@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+}
+.image-desine{
+  width: 400px;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 10px;
+}
+
+.color-change{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 30%;
+}
+
+
+.person-name {
+  padding: 5px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+
+}
+
+.designe-container {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.5;
+}
